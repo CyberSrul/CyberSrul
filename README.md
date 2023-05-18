@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Israel</h1>
-<h3 align="center">A CS undergrad in Ariel's university, Israel</h3>
+<h1 align="left">Hi, I'm Israel</h1>
+<h3 align="left">A CS undergrad in Ariel's university, Israel</h3>
 
-- 🌱 I’m currently learning **C, sql, data science, image proccesing**
+🌱 **I’m currently learning image proccesing and computational geometry**
 
 
 <h3 align="left">Technologies I use:</h3>
